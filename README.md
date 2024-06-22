@@ -2,13 +2,23 @@
 
 ![Banner](https://e0.pxfuel.com/wallpapers/582/516/desktop-wallpaper-linux-programmer-pixel-art-artist-background-and-anime-programming.jpg)
 
-Soy un desarrollador de software apasionado por el código abierto y la innovación tecnológica. Especializado en [tus lenguajes o tecnologías clave], con experiencia en [áreas de especialización]. Disfruto colaborando en proyectos que resuelven problemas reales y contribuyen a la comunidad tecnológica. ¡Vamos a construir algo increíble juntos!
+Highly motivated and passionate about technology from the University of Cundinamarca. passionate about technology, student at the University of Cundinamarca, I have also done several courses as in the Sena, global mentorin.... I have experience in software development and project management. software development and project management. I have skills in programming languages programming languages such as Python, Java, C++, C#, as well as database database technologies such as MySQL and MongoDB. In addition, I have experience in web application development using frameworks frameworks such as Angular and Spring Boot. I also have skills in frontend and backend development using technologies such as HTML using technologies such as HTML, CSS and JavaScript as well as using design patterns such as MVC
 
-## 🚀 Habilidades Técnicas
+## 🚀 Technical Skills
 
-- **Lenguajes**: JavaScript, Python, C++
-- **Frameworks**: React, Vue.js, Django
-- **Herramientas**: Git, Docker, Kubernetes
+- **Lenguajes**:
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+- **Frameworks**:
+  - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  - ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+  - ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- **Herramientas**:
+  - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  - ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 ## 🔭 Proyectos Destacados
 
