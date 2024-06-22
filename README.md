@@ -32,7 +32,7 @@ Highly motivated and passionate about technology from the University of Cundinam
 
 ## 🔭 Proyectos Destacados
 
-### [Multired]([(https://github.com/elsantiwg/multired))]
+### [Multired](https://github.com/elsantiwg/multired)
 ![Proyecto Asombroso](https://i.imgur.com/IZtLynd.jpeg)
 I developed an advanced inventory system called "Multired" using .NET Core MVC. This project offers a comprehensive solution for efficient inventory management, sales, and report generation in PDF and Excel formats. I implemented user roles, advanced security with strong encryption, and a modern and adaptable user interface thanks to Bootstrap. I used Firebase to integrate automatic emails and Swagger to document the system APIs.
 
