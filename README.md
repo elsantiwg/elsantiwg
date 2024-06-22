@@ -11,7 +11,7 @@ Highly motivated and passionate about technology from the University of Cundinam
   - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  - ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+  - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
   - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -32,26 +32,36 @@ Highly motivated and passionate about technology from the University of Cundinam
 
 ## 🔭 Proyectos Destacados
 
-### [Proyecto Asombroso]([https://github.com/tu-usuario/proyecto-asombroso)](https://github.com/elsantiwg/multired)
-![Proyecto Asombroso](https://mi-imagen-url.com/proyecto-asombroso.png)
-Una herramienta para [descripción breve]. Utiliza [tecnologías clave].
+### [Multired]([(https://github.com/elsantiwg/multired))]
+![Proyecto Asombroso](https://imgur.com/I2RsMWG)
+I developed an advanced inventory system called "Multired" using .NET Core MVC. This project offers a comprehensive solution for efficient inventory management, sales, and report generation in PDF and Excel formats. I implemented user roles, advanced security with strong encryption, and a modern and adaptable user interface thanks to Bootstrap. I used Firebase to integrate automatic emails and Swagger to document the system APIs.
 
-### [Otro Proyecto Genial](https://github.com/tu-usuario/otro-proyecto-genial)
-![Otro Proyecto Genial](https://mi-imagen-url.com/otro-proyecto-genial.png)
-Una aplicación que [descripción breve]. Desarrollada con [tecnologías clave].
+KEY FEATURES:
+Inventory management with advanced real-time search and visualization features.
+Integration with SQL Server for secure and efficient data storage.
+Modular development in .NET Core MVC for a scalable and maintainable structure.
+Professional report generation in PDF and Excel using DinkToPdf.
+Responsive and attractive user interface designed with Bootstrap.
+Enhanced security with Isopoh.Cryptography.Argon2 for password protection.
+Firebase integration for automatic email dispatch.
+Interactive API documentation with Swashbuckle.AspNetCore (Swagger) for easy integration and maintenance.
 
-## 📈 Estadísticas de GitHub
+### [my page](https://elsantiwg.netlify.app/)
+![Otro Proyecto Genial](https://imgur.com/3JO2y2Z)
+page where you can find my contact, blog and projects
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+## 📈 GitHub statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=elsantiwg&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsantiwg&layout=compact&theme=radical)
 
-## 📫 Contáctame
 
-- [LinkedIn](https://www.linkedin.com/in/tu-usuario)
-- [Correo Electrónico](mailto:tuemail@example.com)
-- [Sitio Web](https://www.tusitio.com)
+## 📫 Contact me at
+
+- [LinkedIn](https://www.linkedin.com/in/kevin-santiago-prieto-guerrero-b10b90213/)
+- [Email](kspg2350@gmail.com)
+- [Web site](https://elsantiwg.netlify.app/)
 
 ---
 
-**Desarrollado con ❤️ por [Tu Nombre](https://github.com/tu-usuario)**
+**Developed with ❤️ by [Santi](https://github.com/elsantiwg)**
