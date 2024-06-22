@@ -21,6 +21,7 @@ Highly motivated and passionate about technology from the University of Cundinam
   - ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
   - ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
   - ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+  - ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=java&logoColor=white)
   - ![Java EE](https://img.shields.io/badge/Java%20EE-007396?style=for-the-badge&logo=java&logoColor=white)
   - ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
@@ -29,6 +30,8 @@ Highly motivated and passionate about technology from the University of Cundinam
   - ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
   - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
   - ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+  - ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
 
 ## 🔭 Proyectos Destacados
 
