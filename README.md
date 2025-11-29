@@ -1,13 +1,6 @@
 <h2 align="left">👋 ¡Hi! Soy Kevin Santiago Prieto Guerrero</h2>
-<h3 align="left">🚀 Developer Backend Senior | Java • Spring Boot • Microservicios • AWS</h3>
+<h3 align="left">🚀 Developer Backend | Java • C# • Python • Spring Boot • .Net • Microservicios • AWS</h3>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elsantiwg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=es&hide_border=false" height="165" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elsantiwg&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="165" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsantiwg&locale=es&theme=radical&hide_border=false" height="165" alt="streak graph"  />
-</div>
 
 ###
 
